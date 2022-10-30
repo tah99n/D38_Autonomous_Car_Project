@@ -19,7 +19,6 @@
 void AUTONC_init(void);
 void AUTONC_DisplayProjectDetails(void);
 void AUTONC_ControlSpeed(void);
-void AUTONC_setCarState(u8 Direction);
 
 
 
